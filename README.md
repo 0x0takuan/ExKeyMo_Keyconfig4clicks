@@ -28,7 +28,7 @@ Clicks 製物理キーボード（Power Keyboard/Keyboard Cases）のキー配�
 
 ## 開発 (Development)
 
-自分でもこだわりのキー配列を求める方のために[Sample code](https://github.com/0x0takuan/ExKeyMo_Keyconfig4clicks/tree/main/Keyconfig) に手順と今回作成した apk の complex code を格納しました。
+自分でもこだわりのキー配列を求める方のために [Sample code](https://github.com/0x0takuan/ExKeyMo_Keyconfig4clicks/tree/main/Keyconfig/Sample%20code) に手順と今回作成した apk の complex code を格納しました。
 ぜひニッチな環境なので、盛り上げていきましょう。
 
 ## ライセンス (License)
