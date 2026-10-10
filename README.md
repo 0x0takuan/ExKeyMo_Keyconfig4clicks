@@ -26,6 +26,11 @@ Clicks 製物理キーボード（Power Keyboard/Keyboard Cases）のキー配�
 - 本アプリは非公式のツールです。利用による端末の不具合や予期せぬ動作について、開発者は一切の責任を負いません。
 - 自己責任においてご利用ください。
 
+## 開発 (Development)
+
+自分でもこだわりのキー配列を求める方のために[Sample code](https://github.com/0x0takuan/ExKeyMo_Keyconfig4clicks/tree/main/Keyconfig) に手順と今回作成した apk の complex code を格納しました。
+ぜひニッチな環境なので、盛り上げていきましょう。
+
 ## ライセンス (License)
 
 このプロジェクトは [MIT License](LICENSE) の下で公開されています。
