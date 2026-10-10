@@ -1,7 +1,7 @@
 # ExKeyMo_Keyconfig4clicks
 Clicks 製物理キーボード（Power Keyboard/Keyboard Cases）のキー配列（Keyconfig）をExKeyMoを活用して変更・カスタマイズできるようにするための APK 配布および情報共有リポジトリです。
 
-## 概要 (overview)
+## 概要 (Overview)
 
 - このプロジェクトでは、Clicks 製物理キーボードのキーマップを変更・拡張するための非公式 APK を提供しています。
 - 公式の配列に物足りなさを感じている方や、自分好みの配列にしたい方に向けて開発しています。
