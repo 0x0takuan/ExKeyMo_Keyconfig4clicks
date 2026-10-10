@@ -1,0 +1,35 @@
+type OVERLAY
+
+# 1. 物理キーを基本キーコードにマッピング
+# 既存Ctrlキーの有効化
+map key 240 CTRL_LEFT
+
+# Commandキー：英数
+map key 125 EISU
+
+# Clicksキー：かな
+map key 15  KANA
+
+# Keyboardキー：カーソル左
+map key 56  DPAD_LEFT
+
+# Voiceキー：カーソル右
+map key 582 DPAD_RIGHT
+
+# .キー：PERIOD
+map key 52  PERIOD
+
+# $キー：4
+map key 5   4
+
+# 2. キーの動作定義
+key PERIOD {
+    label:         '.'
+    base:          '-'
+}
+
+key 4 {
+    label:         '4'
+    base:          '4'
+    shift:         '.'
+}
