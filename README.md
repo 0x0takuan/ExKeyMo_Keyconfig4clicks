@@ -32,7 +32,7 @@ Clicks 製物理キーボード（Power Keyboard/Keyboard Cases）のキー配�
 
 ## フィードバック (Feedback)
 
-バグ報告や機能要望は、[Issues](../../issues) または Pull Request よりお気軽にお寄せください。
+バグ報告や機能要望は、[Issues](https://github.com/0x0takuan/ExKeyMo_Keyconfig4clicks/issues) または Pull Request よりお気軽にお寄せください。
 
 ## 参考情報 (Reference)
 
