@@ -18,7 +18,7 @@ Clicks 製物理キーボード（Power Keyboard/Keyboard Cases）のキー配�
    - Android 端末のセキュリティ設定で「不明なアプリのインストール」を許可し、ダウンロードした APK をインストールします。
 5. **物理キーボードのキーレイアウト設定の変更**
    - 設定から、言語と入力 > 物理キーボード > Power Keyboad / Clicks Creator Keyboard を選択し、レイアウトを "ExKeyMo Layout" に変更します。
-3. **再起動（別の　Keymap APK をインストールした場合も）**
+3. **再起動（別の Keymap APK をインストールした場合も）**
    - 変更したキーレイアウトを反映させるため、再起動を行ってください。
 
 ## 注意事項 (Disclaimer)
