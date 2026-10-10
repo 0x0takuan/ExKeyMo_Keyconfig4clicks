@@ -13,7 +13,7 @@ Clicks 製物理キーボード（Power Keyboard/Keyboard Cases）のキー配�
 1. **Android スマートフォンの状態の設定**
    - Android スマートフォンに Clicks app を導入済みの場合は Additional Settings の各キーをデフォルト値（Tab/Alt/Gemini）に戻します。
 3. **APK のダウンロード**
-   - [Releases](../../releases) ページから自分の欲しい Keymap について最新の APK ファイルをダウンロードしてください。
+   - [Keyconfig](https://github.com/0x0takuan/ExKeyMo_Keyconfig4clicks/tree/main/Keyconfig)ページから自分の欲しい Keymap について最新の APK ファイルをダウンロードしてください。
 4. **インストール**
    - Android 端末のセキュリティ設定で「不明なアプリのインストール」を許可し、ダウンロードした APK をインストールします。
 5. **物理キーボードのキーレイアウト設定の変更**
