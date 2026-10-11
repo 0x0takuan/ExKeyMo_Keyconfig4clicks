@@ -1,7 +1,7 @@
 type OVERLAY
 
 # 1. 物理キーを基本キーコードにマッピング
-# 既存Ctrlキーの有効化
+# iOSモードのCtrlキー：CTRL
 map key 240 CTRL_LEFT
 
 # Commandキー：英数
@@ -12,6 +12,9 @@ map key 15  KANA
 
 # Keyboardキー：カーソル左
 map key 56  DPAD_LEFT
+
+# iOSモードのKeyboardキー：カーソル左
+map key 374 DPAD_LEFT
 
 # Voiceキー：カーソル右
 map key 582 DPAD_RIGHT
