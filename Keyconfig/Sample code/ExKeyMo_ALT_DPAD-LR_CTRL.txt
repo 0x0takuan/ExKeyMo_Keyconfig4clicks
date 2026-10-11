@@ -4,10 +4,10 @@ type OVERLAY
 # カーソル左キー：TAB
 map key 105 TAB
 
-# カーソル右キー：DELET
+# カーソル右キー：DELETE
 map key 106 FORWARD_DEL
 
-# 既存Ctrlキーの有効化
+# iOSモードのCtrlキー：CTRL
 map key 240 CTRL_LEFT
 
 # Commandキー：ALT
@@ -18,6 +18,9 @@ map key 15  DPAD_LEFT
 
 # Keyboardキー：カーソル右
 map key 56  DPAD_RIGHT
+
+# iOSモードのKeyboardキー：カーソル右
+map key 374 DPAD_RIGHT
 
 # Voiceキー：CTRL
 map key 582 CTRL_LEFT
