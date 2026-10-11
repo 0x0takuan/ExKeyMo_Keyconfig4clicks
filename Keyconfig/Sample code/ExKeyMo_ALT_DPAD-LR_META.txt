@@ -1,0 +1,41 @@
+type OVERLAY
+
+# 1. 物理キーを基本キーコードにマッピング
+# カーソル左キー：TAB
+map key 105 TAB
+
+# カーソル右キー：DELETE
+map key 106 FORWARD_DEL
+
+# 既存Ctrlキーの有効化
+map key 240 CTRL_LEFT
+
+# Commandキー：ALT
+map key 125 ALT_LEFT
+
+# Clicksキー：カーソル左
+map key 15  DPAD_LEFT
+
+# Keyboardキー：カーソル右
+map key 56  DPAD_RIGHT
+
+# Voiceキー：META
+map key 582 META_LEFT
+
+# .キー：PERIOD
+map key 52  PERIOD
+
+# $キー：4
+map key 5   4
+
+# 2. キーの動作定義
+key PERIOD {
+    label:         '.'
+    base:          '-'
+}
+
+key 4 {
+    label:         '4'
+    base:          '4'
+    shift:         '.'
+}
