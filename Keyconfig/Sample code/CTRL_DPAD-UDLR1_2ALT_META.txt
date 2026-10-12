@@ -1,0 +1,121 @@
+type OVERLAY
+
+# ファーストキーコードマッピング
+# 1. 物理キーを基本キーコードにマッピング
+# カーソル左キー：TAB
+map key 105 TAB
+
+# カーソル右キー：DELETE
+map key 106 FORWARD_DEL
+
+# カーソル上キー：META
+map key 103 META_LEFT
+
+# カーソル下キー：ALT
+map key 108 ALT_LEFT
+
+# Ctrlキー：CTRL
+map key 29  CTRL_LEFT
+
+# iOSモードのCtrlキー：CTRL
+map key 240 CTRL_LEFT
+
+# Commandキー：カーソル上
+map key 125 DPAD_UP
+
+# Clicksキー：カーソル左
+map key 15  DPAD_LEFT
+
+# Keyboardキー：カーソル右
+map key 56  DPAD_RIGHT
+
+# iOSモードのKeyboardキー：カーソル右
+map key 374 DPAD_RIGHT
+
+# Voiceキー：カーソル下
+map key 582 DPAD_DOWN
+
+# .キー：PERIOD
+map key 52  PERIOD
+
+# $キー：4
+map key 5   4
+
+# 2. キーの動作定義
+key MINUS {
+    label:         '-'
+    base:          '$'
+}
+
+key PERIOD {
+    label:         '.'
+    base:          '-'
+}
+
+key 4 {
+    label:         '4'
+    base:          '4'
+    shift:         '.'
+}
+
+
+----------------------------------------------------------------------------------------------
+type OVERLAY
+
+# セカンドキーコードマッピング
+# 1. 物理キーを基本キーコードにマッピング
+# カーソル左キー：TAB
+map key 105 TAB
+
+# カーソル右キー：DELETE
+map key 106 FORWARD_DEL
+
+# カーソル上キー：META
+#map key 103 META_LEFT
+
+# カーソル下キー：CTRL
+#map key 108 CTRL_LEFT
+
+# Ctrlキー：CTRL
+map key 29  CTRL_LEFT
+
+# iOSモードのCtrlキー：CTRL
+map key 240 CTRL_LEFT
+
+# Commandキー：ALT
+map key 125 ALT_LEFT
+
+# Clicksキー：カーソル左
+map key 15  DPAD_LEFT
+
+# Keyboardキー：カーソル右
+map key 56  DPAD_RIGHT
+
+# iOSモードのKeyboardキー：カーソル右
+map key 374 DPAD_RIGHT
+
+# Voiceキー：META
+map key 582 META_LEFT
+
+# .キー：PERIOD
+map key 52  PERIOD
+
+# $キー：4
+map key 5   4
+
+# 2. キーの動作定義
+key MINUS {
+    label:         '-'
+    base:          '$'
+}
+
+key PERIOD {
+    label:         '.'
+    base:          '-'
+}
+
+key 4 {
+    label:         '4'
+    base:          '4'
+    shift:         '.'
+}
